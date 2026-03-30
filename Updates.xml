@@ -7,7 +7,7 @@
   <DisplayName>FreeRocks</DisplayName>
   <Description>Aplicación Freerocks para la visualización de imagenes termicas en tiempo real desde una camara de video, con el objetivo de ralizar la detección de caida de rocas.</Description>
   <Icon>favicon.ico</Icon>
-  <Version>2.3.0</Version>
+  <Version>2.3.1</Version>
   <ReleaseDate>2026-03-29</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
