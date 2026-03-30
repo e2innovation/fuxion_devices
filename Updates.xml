@@ -3,6 +3,15 @@
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
  <PackageUpdate>
+  <Name>com.e2i.assets</Name>
+  <DisplayName>Assets</DisplayName>
+  <Description>Recursos adicionales</Description>
+  <Version>2.3.1</Version>
+  <Default>false</Default>
+  <UpdateFile CompressedSize="0" OS="Any" UncompressedSize="0"/>
+  <SHA1>23661370272ea107dae44661b0d6dc777dde89d2</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
   <Name>com.e2i.freerocks</Name>
   <DisplayName>FreeRocks</DisplayName>
   <Description>Aplicación Freerocks para la visualización de imagenes termicas en tiempo real desde una camara de video, con el objetivo de ralizar la detección de caida de rocas.</Description>
@@ -11,13 +20,23 @@
   <ReleaseDate>2026-03-29</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="90149362" OS="Any" UncompressedSize="465490658"/>
-  <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforminputcontexts.7z,platforms.7z,qml.7z,qmltooling.7z,sqldrivers.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
+  <UpdateFile CompressedSize="4126025" OS="Any" UncompressedSize="7479848"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
   <Licenses>
    <License file="license.txt" name="Acuerdo de licencia de usuario final"/>
   </Licenses>
-  <SHA1>55308ce0beee0df0bb120913f467e2b7d192e6bf</SHA1>
+  <SHA1>3b1e7133e8329e69d9b02e392d1f5462546f06ef</SHA1>
  </PackageUpdate>
- <SHA1>1b2c2f707b29ec3540945fda1f87c3e2026f75ce</SHA1>
- <MetadataName>2026-03-29-2354_meta.7z</MetadataName>
+ <PackageUpdate>
+  <Name>com.e2i.runtime</Name>
+  <DisplayName>Assets</DisplayName>
+  <Description>Recursos adicionales</Description>
+  <Version>2.3.1</Version>
+  <Default>false</Default>
+  <UpdateFile CompressedSize="86057420" OS="Any" UncompressedSize="458010850"/>
+  <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforminputcontexts.7z,platforms.7z,qml.7z,qmltooling.7z,sqldrivers.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
+  <SHA1>0e3bee99d85b97ead1a3287d0684a0fef1c7012d</SHA1>
+ </PackageUpdate>
+ <SHA1>9862aea86ccc880fdc527d21f856f14ef976b66f</SHA1>
+ <MetadataName>2026-03-30-0013_meta.7z</MetadataName>
 </Updates>
