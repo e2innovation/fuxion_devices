@@ -2,6 +2,8 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
+ <SHA1>242fdff0f50aa2590a2209a4fec9ccdeb65d7e26</SHA1>
+ <MetadataName>2026-03-30-0100_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>com.e2i.assets</Name>
   <DisplayName>Assets</DisplayName>
@@ -10,25 +12,25 @@
   <ReleaseDate>2026-03-30</ReleaseDate>
   <Default>false</Default>
   <UpdateFile CompressedSize="0" OS="Any" UncompressedSize="0"/>
-  <SHA1>ba460b1cbbb75ab65ede2bb303d7cef87cf7f6d4</SHA1>
+  <SHA1>d18d4626e0728d44b00cd72ea8cb4e22189e4b40</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.e2i.freerocks</Name>
   <DisplayName>FreeRocks</DisplayName>
   <Description>Aplicación Freerocks para la visualización de imagenes termicas en tiempo real desde una camara de video, con el objetivo de ralizar la detección de caida de rocas.</Description>
   <Icon>favicon.ico</Icon>
-  <Version>2.3.1</Version>
+  <Version>2.3.2</Version>
   <Dependencies>com.e2i.runtime</Dependencies>
   <ReleaseDate>2026-03-29</ReleaseDate>
   <Default>true</Default>
   <Visible>false</Visible>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="4126025" OS="Any" UncompressedSize="7479848"/>
+  <UpdateFile CompressedSize="4126098" OS="Any" UncompressedSize="7479848"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
   <Licenses>
    <License file="license.txt" name="Acuerdo de licencia de usuario final"/>
   </Licenses>
-  <SHA1>b2d56e23092b57de28e44743d9bdf10618076c16</SHA1>
+  <SHA1>a95c8b9a37d142cd31fc50395630df592e9fca81</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.e2i.runtime</Name>
@@ -37,10 +39,8 @@
   <Version>2.3.1</Version>
   <ReleaseDate>2026-03-30</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile CompressedSize="86057426" OS="Any" UncompressedSize="458010850"/>
+  <UpdateFile CompressedSize="86057187" OS="Any" UncompressedSize="458010850"/>
   <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforminputcontexts.7z,platforms.7z,qml.7z,qmltooling.7z,sqldrivers.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>ef4c581337911fe8fd7424a4b2c29048a9feb27b</SHA1>
+  <SHA1>7088e0e958a17e28e893d98dcca570916d72bb69</SHA1>
  </PackageUpdate>
- <SHA1>52824b902821b4c497eedd4529c719c39f896f48</SHA1>
- <MetadataName>2026-03-30-0051_meta.7z</MetadataName>
 </Updates>
